@@ -23,7 +23,7 @@ const drawerWidth = 240
 const navItems = [
   {
     title: 'GITHUB',
-    href: 'https://github.com/JohnKucharsky/react-redux-mui',
+    href: 'https://github.com/JohnKucharsky/todo-mindbox',
   },
   { title: 'TELEGRAM', href: 'https://t.me/johnkucharsky' },
   {
